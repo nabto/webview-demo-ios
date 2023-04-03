@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6D04A6D61E3F4C4800DD9F70"
-               BuildableName = "Nabto Edge Video.app"
-               BlueprintName = "Nabto Edge Video"
+               BuildableName = "Nabto Edge Webview.app"
+               BlueprintName = "Nabto Edge Webview"
                ReferencedContainer = "container:NabtoEdgeWebview.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -59,8 +59,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6D04A6D61E3F4C4800DD9F70"
-            BuildableName = "Nabto Edge Video.app"
-            BlueprintName = "Nabto Edge Video"
+            BuildableName = "Nabto Edge Webview.app"
+            BlueprintName = "Nabto Edge Webview"
             ReferencedContainer = "container:NabtoEdgeWebview.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -75,8 +75,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6D04A6D61E3F4C4800DD9F70"
-            BuildableName = "Nabto Edge Video.app"
-            BlueprintName = "Nabto Edge Video"
+            BuildableName = "Nabto Edge Webview.app"
+            BlueprintName = "Nabto Edge Webview"
             ReferencedContainer = "container:NabtoEdgeWebview.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
