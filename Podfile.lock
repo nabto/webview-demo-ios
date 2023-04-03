@@ -1,0 +1,47 @@
+PODS:
+  - CBORCoding (1.3.2):
+    - Half (~> 1.3)
+  - Half (1.3.1)
+  - IQKeyboardManagerSwift (6.5.11)
+  - MarqueeLabel (4.0.5)
+  - NabtoEdgeClientSwift (3.0.4)
+  - NabtoEdgeIamUtil (1.0.0):
+    - CBORCoding (~> 1.3.2)
+    - Half (~> 1.3.1)
+    - NabtoEdgeClientSwift (~> 3.0.0)
+  - NotificationBannerSwift (3.0.6):
+    - MarqueeLabel (~> 4.0.5)
+    - SnapKit (~> 5.0.1)
+  - SnapKit (5.0.1)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - NabtoEdgeClientSwift (= 3.0.4)
+  - NabtoEdgeIamUtil
+  - NotificationBannerSwift (~> 3.0.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - IQKeyboardManagerSwift
+    - NabtoEdgeClientSwift
+  trunk:
+    - CBORCoding
+    - Half
+    - MarqueeLabel
+    - NabtoEdgeIamUtil
+    - NotificationBannerSwift
+    - SnapKit
+
+SPEC CHECKSUMS:
+  CBORCoding: bc4b677abf83b603535f6af7158b88b86ac07744
+  Half: 53808d877fd489901434883eb5ca91d6be65f0b3
+  IQKeyboardManagerSwift: c7955c0bdbf7b2eb29bb7daaa44e3d90f55a9a85
+  MarqueeLabel: 00cc0bcd087111dca575878b3531af980559707d
+  NabtoEdgeClientSwift: c75eca7412b6e10020ee4d30c863644875649331
+  NabtoEdgeIamUtil: 58bae7b4366df7fc5933a00d65c17c656331d8e9
+  NotificationBannerSwift: 7021be2338f8f29cf424b0aca43da462bf9e2a1a
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+
+PODFILE CHECKSUM: af24b9522e04f30e6801bd86d0759f6d8d2b82dc
+
+COCOAPODS: 1.11.3
