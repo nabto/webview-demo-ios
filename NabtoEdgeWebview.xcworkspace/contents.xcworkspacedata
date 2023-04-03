@@ -7,4 +7,7 @@
    <FileRef
       location = "group:/Users/as/Workspace/webview-demo-ios/NabtoEdgeWebview.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:NabtoEdgeWebview.xcodeproj">
+   </FileRef>
 </Workspace>

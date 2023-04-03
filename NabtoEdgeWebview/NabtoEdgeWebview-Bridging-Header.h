@@ -1,6 +1,6 @@
 //
-//  NabtoEdgeVideo-Bridging-Header.h
-//  NabtoEdgeVideo
+//  NabtoEdgeWebview-Bridging-Header.h
+//  NabtoEdgeWebview
 //
 //  Created by Nabto on 30/01/2022.
 //  Copyright © 2022 Nabto. All rights reserved.

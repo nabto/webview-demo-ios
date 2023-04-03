@@ -18,10 +18,10 @@ def common
   pod 'IQKeyboardManagerSwift'
 end
 
-target 'Nabto Edge Video' do
+target 'Nabto Edge Webview' do
   common
 end
 
-target 'NabtoEdgeVideoTests' do
+target 'NabtoEdgeWebviewTests' do
   common
 end
