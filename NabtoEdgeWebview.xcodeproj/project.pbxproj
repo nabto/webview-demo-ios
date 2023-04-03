@@ -135,7 +135,7 @@
 			isa = PBXGroup;
 			children = (
 				6D04A6D91E3F4C4800DD9F70 /* NabtoEdgeWebview */,
-				6D04A6EE1E3F4C4800DD9F70 /* NabtoEdgeVideoTests */,
+				6D04A6EE1E3F4C4800DD9F70 /* NabtoEdgeWebviewTests */,
 				6D04A6D81E3F4C4800DD9F70 /* Products */,
 				6D04A6FA1E3F50F700DD9F70 /* Frameworks */,
 				AA0321A961738372158382D1 /* Pods */,
@@ -163,7 +163,7 @@
 			path = NabtoEdgeWebview;
 			sourceTree = "<group>";
 		};
-		6D04A6EE1E3F4C4800DD9F70 /* NabtoEdgeVideoTests */ = {
+		6D04A6EE1E3F4C4800DD9F70 /* NabtoEdgeWebviewTests */ = {
 			isa = PBXGroup;
 			children = (
 				6D95FF231E49F37E00FB070F /* FrameworkIntegrationTests.swift */,
@@ -172,7 +172,7 @@
 				6D04A6F11E3F4C4800DD9F70 /* Info.plist */,
 				E92ABEF8BBC6C0A9BC56081D /* EdgeManagerTests.swift */,
 			);
-			path = NabtoEdgeVideoTests;
+			path = NabtoEdgeWebviewTests;
 			sourceTree = "<group>";
 		};
 		6D04A6FA1E3F50F700DD9F70 /* Frameworks */ = {
