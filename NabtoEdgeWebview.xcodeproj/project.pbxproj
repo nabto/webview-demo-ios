@@ -72,7 +72,7 @@
 		6D04A6E11E3F4C4800DD9F70 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6D04A6E41E3F4C4800DD9F70 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6D04A6E61E3F4C4800DD9F70 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		6D04A6EB1E3F4C4800DD9F70 /* NabtoEdgeVideoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NabtoEdgeVideoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		6D04A6EB1E3F4C4800DD9F70 /* NabtoEdgeWebviewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NabtoEdgeWebviewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6D04A6EF1E3F4C4800DD9F70 /* OtherTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OtherTests.swift; sourceTree = "<group>"; };
 		6D04A6F11E3F4C4800DD9F70 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6D04A70B1E3F53C900DD9F70 /* NabtoEdgeVideo-Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NabtoEdgeVideo-Bridging-Header.h"; sourceTree = "<group>"; };
@@ -146,7 +146,7 @@
 			isa = PBXGroup;
 			children = (
 				6D04A6D71E3F4C4800DD9F70 /* Nabto Edge Video.app */,
-				6D04A6EB1E3F4C4800DD9F70 /* NabtoEdgeVideoTests.xctest */,
+				6D04A6EB1E3F4C4800DD9F70 /* NabtoEdgeWebviewTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -266,9 +266,9 @@
 			productReference = 6D04A6D71E3F4C4800DD9F70 /* Nabto Edge Video.app */;
 			productType = "com.apple.product-type.application";
 		};
-		6D04A6EA1E3F4C4800DD9F70 /* NabtoEdgeVideoTests */ = {
+		6D04A6EA1E3F4C4800DD9F70 /* NabtoEdgeWebviewTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6D04A6F71E3F4C4800DD9F70 /* Build configuration list for PBXNativeTarget "NabtoEdgeVideoTests" */;
+			buildConfigurationList = 6D04A6F71E3F4C4800DD9F70 /* Build configuration list for PBXNativeTarget "NabtoEdgeWebviewTests" */;
 			buildPhases = (
 				F079587CC37B286788DF8046 /* [CP] Check Pods Manifest.lock */,
 				6D04A6E71E3F4C4800DD9F70 /* Sources */,
@@ -281,9 +281,9 @@
 			dependencies = (
 				6D04A6ED1E3F4C4800DD9F70 /* PBXTargetDependency */,
 			);
-			name = NabtoEdgeVideoTests;
+			name = NabtoEdgeWebviewTests;
 			productName = NabtoEdgeVideoTests;
-			productReference = 6D04A6EB1E3F4C4800DD9F70 /* NabtoEdgeVideoTests.xctest */;
+			productReference = 6D04A6EB1E3F4C4800DD9F70 /* NabtoEdgeWebviewTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -308,7 +308,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 6D04A6D21E3F4C4800DD9F70 /* Build configuration list for PBXProject "NabtoEdgeVideo" */;
+			buildConfigurationList = 6D04A6D21E3F4C4800DD9F70 /* Build configuration list for PBXProject "NabtoEdgeWebview" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -323,7 +323,7 @@
 			projectRoot = "";
 			targets = (
 				6D04A6D61E3F4C4800DD9F70 /* Nabto Edge Video */,
-				6D04A6EA1E3F4C4800DD9F70 /* NabtoEdgeVideoTests */,
+				6D04A6EA1E3F4C4800DD9F70 /* NabtoEdgeWebviewTests */,
 			);
 		};
 /* End PBXProject section */
@@ -767,7 +767,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		6D04A6D21E3F4C4800DD9F70 /* Build configuration list for PBXProject "NabtoEdgeVideo" */ = {
+		6D04A6D21E3F4C4800DD9F70 /* Build configuration list for PBXProject "NabtoEdgeWebview" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6D04A6F21E3F4C4800DD9F70 /* Debug */,
@@ -785,7 +785,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6D04A6F71E3F4C4800DD9F70 /* Build configuration list for PBXNativeTarget "NabtoEdgeVideoTests" */ = {
+		6D04A6F71E3F4C4800DD9F70 /* Build configuration list for PBXNativeTarget "NabtoEdgeWebviewTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6D04A6F81E3F4C4800DD9F70 /* Debug */,

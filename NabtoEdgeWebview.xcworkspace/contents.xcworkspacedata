@@ -5,6 +5,6 @@
       location = "group:Pods/Pods.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:NabtoEdgeVideo.xcodeproj">
+      location = "group:/Users/as/Workspace/webview-demo-ios/NabtoEdgeWebview.xcodeproj">
    </FileRef>
 </Workspace>

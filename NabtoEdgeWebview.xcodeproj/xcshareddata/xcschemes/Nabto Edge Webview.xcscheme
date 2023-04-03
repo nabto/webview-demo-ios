@@ -17,7 +17,7 @@
                BlueprintIdentifier = "6D04A6D61E3F4C4800DD9F70"
                BuildableName = "Nabto Edge Video.app"
                BlueprintName = "Nabto Edge Video"
-               ReferencedContainer = "container:NabtoEdgeVideo.xcodeproj">
+               ReferencedContainer = "container:NabtoEdgeWebview.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6D04A6EA1E3F4C4800DD9F70"
-               BuildableName = "NabtoEdgeVideoTests.xctest"
-               BlueprintName = "NabtoEdgeVideoTests"
-               ReferencedContainer = "container:NabtoEdgeVideo.xcodeproj">
+               BuildableName = "NabtoEdgeWebviewTests.xctest"
+               BlueprintName = "NabtoEdgeWebviewTests"
+               ReferencedContainer = "container:NabtoEdgeWebview.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,7 +61,7 @@
             BlueprintIdentifier = "6D04A6D61E3F4C4800DD9F70"
             BuildableName = "Nabto Edge Video.app"
             BlueprintName = "Nabto Edge Video"
-            ReferencedContainer = "container:NabtoEdgeVideo.xcodeproj">
+            ReferencedContainer = "container:NabtoEdgeWebview.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -77,7 +77,7 @@
             BlueprintIdentifier = "6D04A6D61E3F4C4800DD9F70"
             BuildableName = "Nabto Edge Video.app"
             BlueprintName = "Nabto Edge Video"
-            ReferencedContainer = "container:NabtoEdgeVideo.xcodeproj">
+            ReferencedContainer = "container:NabtoEdgeWebview.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>
